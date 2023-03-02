@@ -1,1 +1,2 @@
 # productStarHW
+новая строчка
